@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.fireflyrun",
+  "appName": "Firefly Run",
+  "webDir": "www",
+  "backgroundColor": "#0b1220",
+  "ios": { "contentInset": "never" },
+  "android": { "backgroundColor": "#0b1220" }
+}
